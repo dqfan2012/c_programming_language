@@ -21,11 +21,17 @@ int main()
     //printf("hello, world\n")
 
     /*
+     * "Forgetting" the terminating double quote
+     *
+     * Warning:
      *
      * hello.c: In function ‘main’:
      * hello.c:24:12: warning: missing terminating " character
      *      printf("hello, world\n);
      *             ^
+     *
+     * Error:
+     *
      * hello.c:24:12: error: missing terminating " character
      * printf("hello, world\n);
      *        ^~~~~~~~~~~~~~~~~
