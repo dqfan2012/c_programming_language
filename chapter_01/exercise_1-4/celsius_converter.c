@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Exercise 1-4 - Write a program to print the corresponding Celsius to Farhrenheit table.
+
 /*print Celsius-Fahrenheit Table
     for celsius = 0, 20, ..., 300 */
 
